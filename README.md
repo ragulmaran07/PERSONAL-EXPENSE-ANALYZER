@@ -14,7 +14,7 @@ per-user data isolation, weekly/monthly reports, and visual analytics.
 
 | Login Screen | Dashboard | Analytics |
 |---|---|---|
-| ![Login](screenshots/login.png) | ![Dashboard](screenshots/dashboard.png) | ![Charts](screenshots/charts.png) |
+| ![Login](screenshots/login.png) | ![Dashboard](screenshots/dashboard.png) | ![Charts](screenshots/Charts.png) |
 
 ---
 
