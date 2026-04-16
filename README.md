@@ -27,7 +27,7 @@ per-user data isolation, weekly/monthly reports, and visual analytics.
 - ⚡ **Quick Access** — One-click navigation from dashboard
 - 📋 **Reports Module** — Monthly, Weekly (grouped), and Category reports
 - 📈 **Visual Charts** — Category Pie Chart + Monthly Bar Chart (JFreeChart)
-- 🌟 **Light Professional UI** — Clean white theme built with Java Swing
+- 🌟 **Dark Professional UI** — Clean white theme built with Java Swing
 
 ---
 
